@@ -1,0 +1,21 @@
+.main-content{
+    margin-left: 240px;
+    height: 100vh;
+}
+@media(max-width:992px){
+    .main-content{
+        margin-left: 60px;
+
+    }
+}
+/* Small */
+@media(max-width:600px){
+    .main-content{
+        margin-left: 0;
+    }
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 4%;
+}

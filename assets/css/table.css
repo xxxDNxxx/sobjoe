@@ -1,0 +1,25 @@
+tr{
+    border-bottom: 1px solid #ddd;
+    display: table-row;
+}
+.thead-light{
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+}
+tr:hover {
+    background-color: #ddd;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    display: table;
+}
+table thead tr th{
+    padding: 1.2rem;
+}
+table th,td{
+    padding: .75rem;
+    text-align: left;
+}

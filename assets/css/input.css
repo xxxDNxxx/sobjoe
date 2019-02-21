@@ -1,0 +1,19 @@
+input,
+textarea {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: .375rem;
+    padding-bottom: .375rem;
+    background-color: white;
+    border: 1px solid #ccc !important;
+    font-family: inherit;
+}
+
+textarea:hover,
+input:hover {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}

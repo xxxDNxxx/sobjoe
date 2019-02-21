@@ -1,0 +1,23 @@
+.banner{
+    height: 7vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: relative;
+    background-color:rgb(116, 115, 115);
+    
+}
+
+.banner .banner-title{
+    font-size: 1.2rem;
+    background-color:#3f3e3e;
+    color: white;
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.banner .banner-title > a{
+    color: white;
+}
